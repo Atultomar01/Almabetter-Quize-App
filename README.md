@@ -2,7 +2,7 @@
 
 
 ### Deployed link
-click here :- https://almabetterquize.netlify.app
+click here :- https://almaquize.netlify.app/
 
 ### 🚀 Technology Used
 React js
